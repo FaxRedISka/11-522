@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+c = int(input())
+x = sorted([a,b,c])
+print(x[-1])
